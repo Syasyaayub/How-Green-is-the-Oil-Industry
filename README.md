@@ -24,4 +24,4 @@ Model 3: XG Boost Gradient
 Model 4: Ridge
 
 Model Deployment using Gradio
-The best model selected is Random Forest Regressor with 99.7% accuracy
+The best model selected is Random Forest Regressor with 99.89% accuracy
